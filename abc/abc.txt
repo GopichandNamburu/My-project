@@ -1,0 +1,1 @@
+This is the first file I created as part of my Git and GitHub learning process.
